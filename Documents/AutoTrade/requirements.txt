@@ -1,0 +1,20 @@
+pandas==1.0.3
+selenium==3.141.0
+bs4==0.0.1
+schedule==0.6.0
+matplotlib==3.2.1
+numpy==1.18.2
+facebook-sdk==3.1.0
+requests==2.24.0
+lxml == 4.5.2
+selenium == 3.141.0
+six == 1.15.0
+urllib3 == 1.25.10
+beautifulsoup4 == 4.9.1
+facebook-sdk == 3.1.0
+nse == 0.2.3
+jugaad-data == 0.17
+fyers_api == 1.0.9
+
+
+
